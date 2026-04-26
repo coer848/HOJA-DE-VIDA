@@ -21,4 +21,4 @@ Página web profesional de hoja de vida desarrollada con HTML y CSS.
 ##  Autor
 
 **Gabriel Jaime Correa**  
-GitHub: [@coer848-op](https://github.com/coer848-op)
+GitHub: [@coer848](https://github.com/coer848)
