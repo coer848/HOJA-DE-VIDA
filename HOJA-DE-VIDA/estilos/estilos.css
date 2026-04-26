@@ -1,0 +1,29 @@
+body{background-color: #D6CCC2; 
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+header{background-color: aquamarine;
+   height: auto;
+   width: auto ;
+   padding: 15px; 
+   margin: 10px;
+   border-radius: 10px;
+   text-align: center;
+   
+
+
+}
+
+main{background-color: antiquewhite;
+    height: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px
+
+}
